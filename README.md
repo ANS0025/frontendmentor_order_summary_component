@@ -4,10 +4,10 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Links
 
-- Live Site URL:
+- Live Site URL: https://ans0025.github.io/frontendmentor_order_summary_component/
 
 ## Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- CSS
 - Flexbox
